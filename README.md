@@ -13,6 +13,7 @@ Meus estudos e projetos de Data Science e IA, reunidos num só lugar.
 | Deep Learning | [CNN – 10 categorias](deep-learning/cnn-10-categories/) | CNN para classificar as 10 classes do CIFAR-10 | TensorFlow / Keras |
 | GenAI | [Primeiro chatbot](genai/first-chatbot/) | Q&A sobre documentos PDF pessoais | LangChain, Streamlit |
 | MLOps | [Titanic MLOps](mlops/titanic-mlops/) | Pipeline completo: treino, API, Docker, Kubernetes, CI | Flask, Docker, Kubernetes |
+| MLOps | [MLflow – Fraude em seguros](mlops/mlflow/) | Rastreamento de experimentos com MLflow num pipeline de data prep, features e modelagem | MLflow, PySpark, Optuna, LightGBM |
 | Referência | [Cheat sheets](cheat-sheets/) | Consultas rápidas de Python, SQL e PySpark | — |
 
 ## Estrutura
