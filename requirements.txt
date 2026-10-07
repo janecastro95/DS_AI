@@ -1,0 +1,19 @@
+# Ambiente geral de estudos (ML, Deep Learning e GenAI)
+# O projeto de MLOps tem um requirements.txt próprio em mlops/titanic-mlops/
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+optuna
+shap
+lime
+tensorflow
+langchain
+langchain-community
+langchain-text-splitters
+PyPDF2
+streamlit
+jupyter
